@@ -34,7 +34,7 @@ an _artist_ table may have the following:
 * id
 * first_name
 * last_name
-* instrument
+* instrument       
 
 An _artist-cd_ join table could then be used to create a _many to many_ relationship.
 
